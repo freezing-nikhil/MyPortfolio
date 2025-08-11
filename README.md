@@ -21,7 +21,6 @@ It is built using **HTML, CSS, and JavaScript**, and hosted on [Netlify](https:/
 - Netlify for deployment
 
 ##  Project Structure
-portfolio/
 │── index.html
 │── portfolio5.css
 │── portfolio5.js
